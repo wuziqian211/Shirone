@@ -124,7 +124,7 @@ export const commentConfig: CommentConfig = withUserConfig("comment", {
 		/** reCAPTCHA v3 密钥 */
 		recaptchaV3Key: "",
 		/** Cloudflare Turnstile 密钥 */
-		turnstileKey: "",
+		turnstileKey: "0x4AAAAAAD9yf9VKE8ZfsWRs",
 		/** 是否显示文章表情反应 */
 		reaction: true,
 	},
